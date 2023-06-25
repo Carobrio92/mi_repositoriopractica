@@ -9,3 +9,6 @@ Fecha:2023-06-25
 
 #Multiplicacion
 5*15
+
+#Division
+5/2
