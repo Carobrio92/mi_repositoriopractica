@@ -6,3 +6,6 @@ Fecha:2023-06-25
 
 #Resta
 25-30
+
+#Multiplicacion
+5*15
